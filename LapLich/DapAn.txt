@@ -1,0 +1,56 @@
+Võ Minh Điền
+MSSV: 3121410156
+Bài thực hành 5
+TH05-01.cpp
+assignmenta.txt: 43
+assignmentb.txt: 6635
+assignmentc.txt: 195981
+assignmentd.txt: 1192490
+
+TH05-02.cpp
+Schedulea.txt: 8
+Scheduleb.txt: 3643
+Schedulec.txt: 167132
+Scheduled.txt: 568945
+
+TH05-03.cpp
+Johnsona.txt: May A: 53, May B: 60, Thoi gian hoan thanh: 60
+Johnsonb.txt: May A: 4503, May B: 5234, Thoi gian hoan thanh: 5234
+Johnsonc.txt: May A: 12047, May B: 12367, Thoi gian hoan thanh: 12367
+Johnsond.txt: May A: 255333, May B: 257578, Thoi gian hoan thanh: 257578
+
+TH05-04.cpp
+Line1.txt: 4 đoạn
+Line2.txt: 4 đoạn
+Line3.txt: 3 đoạn
+Line4.txt: 2 đoạn
+
+TH05-05.cpp
+Line1.txt: 5 đoạn
+Line2.txt: 1096 đoạn
+Line3.txt: 1099 đoạn
+Line4.txt: 1142 đoạn
+
+TH05-06.cpp
+Line1.txt: 5 đoạn
+Line2.txt: 1179 đoạn
+Line3.txt: 1206 đoạn
+Line4.txt: 1240 đoạn
+
+TH05-07.cpp
+Schedule1.txt: trễ hạn: 109, đúng hạn: 11
+Schedule2.txt: trễ hạn: 11907, đúng hạn: 93
+Schedule3.txt: trễ hạn: 117416, đúng hạn: 2584
+Schedule4.txt: trễ hạn: 1196340, đúng hạn: 3660
+
+
+
+
+
+
+
+
+
+
+
+
